@@ -26,5 +26,7 @@ This project is a dynamic Excel dashboard that analyzes sales, profit, and order
 - `https://github.com/bhshre/Retail-Sales-Excel-Dashboard/blob/main/Screenshot%202025-07-20%20100130.png` — Screenshot of the dashboard
 
 
-##  Author:
-[Shreya Bhattacharjee] — MSc Data Science | Aspiring Data Analyst, Data Scientist & Data Engineer
+##  About Me
+This project was created by Shreya Bhattacharjee, MSC in data science, Diploma in Data Science an Big Data, an aspiring Data Scientist and Data Engineer passionate about solving real-world problems through data.
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/shreya-bhattacharjee-47b01129a/) or check out more projects on [GitHub](https://github.com/bhshre)
